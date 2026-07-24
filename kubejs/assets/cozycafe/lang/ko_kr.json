@@ -1,0 +1,5 @@
+{
+  "gui.cozycafe.menu_selector.price": "카페 가격: ● %s",
+  "block.cozycafe.cafe_menu.payment": " ● %s 만큼 계좌에 추가됨",
+  "gui.cozycafe.menu_selector.inline_price": "● %s"
+}
